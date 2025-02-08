@@ -18,7 +18,7 @@ Welcome to the **SLM Chatbot**, a simple yet efficient chatbot that leverages **
 - **Backend:** Django (Python) 🐍  
 - **Frontend:** HTML, CSS, JavaScript 🎨  
 - **API Calls:** Hugging Face Inference API 🌐  
-- **Models Used:** Phi-2, Mistral-7B, DistillGPT, and more! 🤖  
+- **Models Used:** Phi-2 🤖  
 
 ---
 
