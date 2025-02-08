@@ -103,7 +103,7 @@ CopyEdit
 
 We welcome contributions! 🎉 If you'd like to improve the chatbot, feel free to **fork the repo, submit PRs, or open issues.**
 
-📧 Contact: _your.email@example.com_  
+📧 Contact: vigneshlakshmanababu@gmail.com
 🌟 Don't forget to **star the repo** if you find it useful! ⭐
 
 * * *
