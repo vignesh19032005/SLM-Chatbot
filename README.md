@@ -26,7 +26,7 @@ Welcome to the **SLM Chatbot**, a simple yet efficient chatbot that leverages **
 
 ### 🔹 1. Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/slm-chatbot.git
+git clone https://github.com/vignesh19032005/slm-chatbot.git
 cd slm-chatbot
 ```
 
